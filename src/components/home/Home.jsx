@@ -4,7 +4,7 @@ import React from 'react'
 function Home() {
   return (
     <div>
-      <div className=" bg-amber-500 text-2xl">hello world</div>
+      <div className=" bg-amber-500 ">hello world</div>
     </div>
 
   )
