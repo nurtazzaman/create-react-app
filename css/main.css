@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+
+ @font-face {
+    font-family: BBHSansBogle;
+    src: url("../src/assets/fonts/BBHSansBogle-Regular.ttf");
+    font-family: RobotoSlab;
+    src: url("../src/assets/fonts/RobotoSlab-VariableFont_wght.ttf");
+ }
+ @theme{
+    --font-BBHSansBogle:BBHSansBogle,"sans-sarif"
+    --font-RobotoSlab:RobotoSlab,"sans-sarif"
+ }
